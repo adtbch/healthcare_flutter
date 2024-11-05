@@ -73,7 +73,7 @@ class DashboardScreen extends StatelessWidget {
                                   ),
                                 ),
                                 Text(
-                                  'Reze',
+                                  'Assyfa',
                                   style: AppTypography.header(
                                     Colors.black,
                                     FontWeight.bold,
