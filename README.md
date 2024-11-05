@@ -5,6 +5,7 @@
 Aplikasi Healthcare adalah aplikasi mobile yang dirancang untuk menyediakan alat manajemen kesehatan yang komprehensif bagi pengguna. Terinspirasi oleh desain elegan dari [Medizinisch Healthcare Technology](https://dribbble.com/shots/20927462-Medizinisch-Healthcare-Technology-Mobile-Apps), aplikasi ini bertujuan untuk meningkatkan pengalaman pengguna melalui navigasi yang intuitif, wawasan kesehatan yang mendetail, dan proses onboarding yang dipersonalisasi.
 
 ![original-79ca600a580cdc59c866a0bd9e49f91f](https://github.com/user-attachments/assets/0f84a6d0-343b-4f06-8059-f2575e3dca92)
+[Medizinisch Healthcare Technology](https://github.com/user-attachments/assets/fbcd435d-56bc-4f16-91d4-7171f563e127)
 
 ## Fitur
 
